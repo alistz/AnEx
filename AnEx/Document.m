@@ -18,9 +18,13 @@
     self = [super init];
     if (self) {
         // Add your subclass-specific initialization here.
+        
+        NSLog(@"可惜不是你陪我到最后");
+        
+        
         NSLog(@"how to do it ");
         
-        NSLog(@"可惜不是你陪我到最后")
+        
     }
     return self;
 }
